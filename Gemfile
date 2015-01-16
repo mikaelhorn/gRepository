@@ -16,7 +16,6 @@ gem 'byebug'
 gem 'web-console', '~> 2.0'
 gem 'spring'
 gem 'bootstrap-sass'   
-gem 'bootstrap-material-design', '~> 0.1.4'
     
 
 end
